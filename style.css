@@ -21,7 +21,7 @@ body{
 
 /* Main image with the intor text*/
 .main-image{
-    background-image: url(.Images/main-image.png);
+    background-image: url(./Images/main-image.png);
     height: 100vh;
     width: 100%;
     background-size: cover;
